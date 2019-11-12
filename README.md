@@ -9,6 +9,8 @@
 
 ## Introduction ##
 
+Seaborn is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing attractive and informative statustical graphics.[1]
+
 ## About the Tips Dataset ##
 
 ## Task ##
@@ -39,6 +41,9 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 ## Contents of GitHub Respository ##
 
+## References ##
+
+[1] www.seaborn.pydata.org
 
 ## Author = Niamh O'Leary #
 
