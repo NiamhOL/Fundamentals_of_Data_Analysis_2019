@@ -13,6 +13,9 @@ Seaborn is a Python data visualisation library based on matplotlib. It provides 
 
 ## About the Tips Dataset ##
 
+The tips dataset comes built-in with the Seaborn library. The tips database contains information about the bills paid by the customers at a fictional restaurant. 
+
+
 ## Task ##
 
 ## Getting Started ##
