@@ -13,21 +13,22 @@ Seaborn is a Python data visualisation library based on matplotlib. It provides 
 
 Here is some of the functionality that seaborn offers:
 
-A dataset-oriented API for examining relationships between multiple variables
-Specialized support for using categorical variables to show observations or aggregate statistics
-Options for visualizing univariate or bivariate distributions and for comparing them between subsets of data
-Automatic estimation and plotting of linear regression models for different kinds dependent variables
-Convenient views onto the overall structure of complex datasets
-High-level abstractions for structuring multi-plot grids that let you easily build complex visualizations
-Concise control over matplotlib figure styling with several built-in themes
-Tools for choosing color palettes that faithfully reveal patterns in your data [2]
+1. A dataset-oriented API for examining relationships between multiple variables
+2. Specialized support for using categorical variables to show observations or aggregate statistics
+3. Options for visualizing univariate or bivariate distributions and for comparing them between subsets of data
+4. Automatic estimation and plotting of linear regression models for different kinds dependent variables
+5. Convenient views onto the overall structure of complex datasets
+6. High-level abstractions for structuring multi-plot grids that let you easily build complex visualizations
+7. Concise control over matplotlib figure styling with several built-in themes
+8. Tools for choosing color palettes that faithfully reveal patterns in your data [2]
+
 In machine learning model while training any model you need to first find which features are important or on which features the result is dependent. This can be done using data analysis and data visualization. We’ll learn how to visualize different types of data, and what we can infer from that plot, and when to use them. Seaborn is a library built on matplotlib. It’s easy to use and can work easily with Numpy and pandas data structures. We’ll be using inbuilt dataset provided by seaborn name tips. [3]
 
 Exploratory Data Analysis (EDA) is an approach to analyzing datmanimasets to summarize their main characteristics. It is used to understand data, get some context regarding it, understand the variables and the relationships between them, and formulate hypotheses that could be useful when building predictive models. [4]
 
 ## About the Tips Dataset ##
 
-The tips dataset comes built-in with the Seaborn library. The tips database contains information about the bills paid by the customers at a fictional restaurant. 
+The tips dataset comes built-in with the Seaborn library. The tips database contains information about the bills paid by the customers at a fictional restaurant. The dataset contains information about people who probably had food at a restaurant and whether or not they left a tip, their age, gender and so on.
 
 
 ## Task ##
@@ -58,8 +59,19 @@ Matplotlib https://matplotlib.org/ - is a 2D plotting library within Python with
 
 Seaborn https://seaborn.pydata.org/ - is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing infromative statistical graphs.
 
+Ploty https://plot.ly/ -  Plotly provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphing libraries for Python, R, MATLAB, Perl etc.
+
+Cufflinks https://plot.ly/python/v3/ipython-notebooks/cufflinks/
+
 ## Importing packages ##
 The above packages can be imported into Python. Use Import function in iPython as follows:
+
+#Import libaries that will be used in this project #
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 ## Contents of GitHub Respository ##
 
@@ -89,6 +101,7 @@ The GitHub Respository associated with this project contains the following:
 9. https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 
 10. Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
 11. McLooughlin, I (2019), course material for 52446 Fundamentials of Data Analysis, GMIT.
+12. https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/
 
 
 ## Author = Niamh O'Leary #
