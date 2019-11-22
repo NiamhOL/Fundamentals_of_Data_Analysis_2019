@@ -18,7 +18,12 @@ The tips dataset comes built-in with the Seaborn library. The tips database cont
 
 ## Task ##
 
-## Getting Started ##
+This assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter . The project is broken into three parts, as follows.
+
+1. Description: Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. Within the repository, create a jupyter notebook that uses descriptive statistics andplots to describe the tips dataset. 
+2. Regression: To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount, and this part is also worth.
+3. Analyse: Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analysethose. 
+
 
 ## Packages used in this project ##
 The following packages were used to run statistical analysis and draw grpahs for this project.
@@ -44,9 +49,30 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 ## Contents of GitHub Respository ##
 
+The GitHub Respository associated with this project contains the following:
+1. Tips databas in .csv format.
+2. ReadMe file giving an overview of the project and the project outline.
+3. Jupyter Notebook outlining the analysis of the tips.csv database containing python code and description of the analysis.
+4. License. 
+
 ## References ##
 
 [1] www.seaborn.pydata.org
+
+## Biblography ##
+
+1. Tutorialspoint.com. (2019). Seaborn - Linear Relationships - Tutorialspoint https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm   
+2. Tutorialspoint.com. (2019). Seaborn - Facet Grid - Tutorialspoint. https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm 
+3. Medium. (2019). Analyze the data through data visualization using Seaborn. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e [Accessed 14 Nov. 2019].
+4. GeeksforGeeks. (2019). Python | Pandas dataframe.info() - https://www.geeksforgeeks.org/python-pandas-dataframe-info/ [Accessed 14 Nov. 2019].
+5. GeeksforGeeks. (2019). Python | Pandas dataframe.groupby() - GeeksforGeeks.https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/
+6. Valcheva, S. (2019). Bivariate Data Analysis: Examples, Definition, Data Sets Correlation.  Science, and Management. Available at: http://intellspot.com/bivariate-data-examples/ [Accessed 14 Nov. 2019].
+7. Visualization, D. and Python, B. (2019). A Comprehensive Guide to Seaborn in Python.  https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/ 
+8. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial.  https://pythonbasics.org/seaborn-distplot/
+9. https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 
+10. Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
+11. McLooughlin, I (2019), course material for 52446 Fundamentials of Data Analysis, GMIT.
+
 
 ## Author = Niamh O'Leary #
 
