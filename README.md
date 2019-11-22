@@ -92,10 +92,10 @@ The GitHub Respository associated with this project contains the following:
 
 1. Tutorialspoint.com. (2019). Seaborn - Linear Relationships - Tutorialspoint https://www.tutorialspoint.com/seaborn/seaborn_linear_relationships.htm   
 2. Tutorialspoint.com. (2019). Seaborn - Facet Grid - Tutorialspoint. https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm 
-3. Medium. (2019). Analyze the data through data visualization using Seaborn. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e [Accessed 14 Nov. 2019].
-4. GeeksforGeeks. (2019). Python | Pandas dataframe.info() - https://www.geeksforgeeks.org/python-pandas-dataframe-info/ [Accessed 14 Nov. 2019].
+3. Medium. (2019). Analyze the data through data visualization using Seaborn. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e 
+4. GeeksforGeeks. (2019). Python | Pandas dataframe.info() - https://www.geeksforgeeks.org/python-pandas-dataframe-info/ 
 5. GeeksforGeeks. (2019). Python | Pandas dataframe.groupby() - GeeksforGeeks.https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/
-6. Valcheva, S. (2019). Bivariate Data Analysis: Examples, Definition, Data Sets Correlation.  Science, and Management. Available at: http://intellspot.com/bivariate-data-examples/ [Accessed 14 Nov. 2019].
+6. Valcheva, S. (2019). Bivariate Data Analysis: Examples, Definition, Data Sets Correlation.  Science, and Management. http://intellspot.com/bivariate-data-examples/ 
 7. Visualization, D. and Python, B. (2019). A Comprehensive Guide to Seaborn in Python.  https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/ 
 8. Pythonbasics.org. (2019). Seaborn Distplot | Python Tutorial.  https://pythonbasics.org/seaborn-distplot/
 9. https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26 
@@ -108,6 +108,13 @@ The GitHub Respository associated with this project contains the following:
 14. https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2
 15. https://www.geeksforgeeks.org/seaborn-distribution-plots/
 16. https://www.codespeedy.com/seaborn-module-of-python/
+17. https://www.ritchieng.com/machine-learning-linear-regression/
+18. https://medium.com/analytics-vidhya/linear-regression-using-python-ce21aa90ade6
+19. https://seaborn.pydata.org/tutorial/regression.html
+20. https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+21. https://www.kdnuggets.com/2019/03/beginners-guide-linear-regression-python-scikit-learn.html
+22. https://www.edvancer.in/step-step-guide-to-execute-linear-regression-python/
+
 
 
 ## Author = Niamh O'Leary #
