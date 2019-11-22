@@ -102,6 +102,12 @@ The GitHub Respository associated with this project contains the following:
 10. Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
 11. McLooughlin, I (2019), course material for 52446 Fundamentials of Data Analysis, GMIT.
 12. https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/
+11. http://www.marcelscharth.com/python/visualisation.html
+12. https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/
+13. https://github.com/delhiank762/Exploratory-Analysis-of-Tips-Dataset/blob/master/tips%20data%20analysis.ipynb
+14. https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2
+15. https://www.geeksforgeeks.org/seaborn-distribution-plots/
+16. https://www.codespeedy.com/seaborn-module-of-python/
 
 
 ## Author = Niamh O'Leary #
