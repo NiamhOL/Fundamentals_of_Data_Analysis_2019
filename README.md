@@ -9,7 +9,21 @@
 
 ## Introduction ##
 
-Seaborn is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing attractive and informative statustical graphics.[1]
+Seaborn is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing attractive and informative statustical graphics.[1] High quality visualisations allow for the identifying of trend and building models.
+
+Here is some of the functionality that seaborn offers:
+
+A dataset-oriented API for examining relationships between multiple variables
+Specialized support for using categorical variables to show observations or aggregate statistics
+Options for visualizing univariate or bivariate distributions and for comparing them between subsets of data
+Automatic estimation and plotting of linear regression models for different kinds dependent variables
+Convenient views onto the overall structure of complex datasets
+High-level abstractions for structuring multi-plot grids that let you easily build complex visualizations
+Concise control over matplotlib figure styling with several built-in themes
+Tools for choosing color palettes that faithfully reveal patterns in your data [2]
+In machine learning model while training any model you need to first find which features are important or on which features the result is dependent. This can be done using data analysis and data visualization. We’ll learn how to visualize different types of data, and what we can infer from that plot, and when to use them. Seaborn is a library built on matplotlib. It’s easy to use and can work easily with Numpy and pandas data structures. We’ll be using inbuilt dataset provided by seaborn name tips. [3]
+
+Exploratory Data Analysis (EDA) is an approach to analyzing datmanimasets to summarize their main characteristics. It is used to understand data, get some context regarding it, understand the variables and the relationships between them, and formulate hypotheses that could be useful when building predictive models. [4]
 
 ## About the Tips Dataset ##
 
