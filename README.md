@@ -71,7 +71,10 @@ The GitHub Respository associated with this project contains the following:
 
 ## References ##
 
-[1] www.seaborn.pydata.org
+[1]. www.seaborn.pydata.org
+[2]. https://seaborn.pydata.org/introduction.html 
+[3]. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e 
+[4]. https://dev.to/nexttech/how-to-perform-exploratory-data-analysis-with-seaborn-29eo
 
 ## Biblography ##
 
