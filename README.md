@@ -9,7 +9,7 @@
 
 ## Introduction ##
 
-Seaborn is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing attractive and informative statustical graphics.[1] High quality visualisations allow for the identifying of trend and building models.
+Seaborn is a Python data visualisation library based on matplotlib. It provides a high level interface for drawing attractive and informative statistical graphics.[1] High quality visualisations allow for the identifying of trend and building models.
 
 Here is some of the functionality that seaborn offers:
 
@@ -63,6 +63,8 @@ Ploty https://plot.ly/ -  Plotly provides online graphing, analytics, and statis
 
 Cufflinks https://plot.ly/python/v3/ipython-notebooks/cufflinks/
 
+Scikit-learn https://scikit-learn.org  - Scikit-learn is a simple and effecient tool for data mining and data analysis. 
+
 ## Importing packages ##
 The above packages can be imported into Python. Use Import function in iPython as follows:
 
@@ -72,6 +74,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import scikit-learn as sklearn
 
 ## Importing the data ##
 Import the tips.csv file using Seaborn.
