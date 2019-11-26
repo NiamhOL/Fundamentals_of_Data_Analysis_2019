@@ -117,6 +117,7 @@ The GitHub Respository associated with this project contains the following:
 20. https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
 21. https://www.kdnuggets.com/2019/03/beginners-guide-linear-regression-python-scikit-learn.html
 22. https://www.edvancer.in/step-step-guide-to-execute-linear-regression-python/
+23. https://wellsr.com/python/seaborn-plots-for-python-data-visualization/
 
 
 
