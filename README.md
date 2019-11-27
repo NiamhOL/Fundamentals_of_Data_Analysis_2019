@@ -121,7 +121,7 @@ The GitHub Respository associated with this project contains the following:
 21. https://www.kdnuggets.com/2019/03/beginners-guide-linear-regression-python-scikit-learn.html
 22. https://www.edvancer.in/step-step-guide-to-execute-linear-regression-python/
 23. https://wellsr.com/python/seaborn-plots-for-python-data-visualization/
-24. https.oreilly.com/learning/data-visualization-with-seaborn
+24. https://www.oreilly.com/library/view/fundamentals-of-data/9781492031079/
 
 
 ## Author = Niamh O'Leary #
