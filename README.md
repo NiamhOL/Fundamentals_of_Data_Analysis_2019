@@ -70,11 +70,11 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 Import libaries that will be used in this project 
 
-'''import numpy as np
-import pandas as pd'''
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scikit-learn as sklearn'''
+    import numpy as np
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    import scikit-learn as sklearn
 
 ## Importing the data ##
 Import the tips.csv file using Seaborn.
