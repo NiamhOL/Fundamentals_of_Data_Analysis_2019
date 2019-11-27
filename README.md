@@ -24,7 +24,7 @@ Here is some of the functionality that seaborn offers:
 
 In machine learning model while training any model you need to first find which features are important or on which features the result is dependent. This can be done using data analysis and data visualization. We’ll learn how to visualize different types of data, and what we can infer from that plot, and when to use them. Seaborn is a library built on matplotlib. It’s easy to use and can work easily with Numpy and pandas data structures. We’ll be using inbuilt dataset provided by seaborn name tips. [3]
 
-Exploratory Data Analysis (EDA) is an approach to analyzing datmanimasets to summarize their main characteristics. It is used to understand data, get some context regarding it, understand the variables and the relationships between them, and formulate hypotheses that could be useful when building predictive models. [4]
+Exploratory Data Analysis (EDA) is an approach to analyzing datmanimasets to summarize their main characteristics. It is used to understand data, get some context regarding it, understand the variables and the relationships between them, and formulate hypotheses that could be useful when building predictive models. [4] 
 
 ## About the Tips Dataset ##
 
@@ -70,11 +70,11 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 #Import libaries that will be used in this project #
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scikit-learn as sklearn
+'''import numpy as np'''
+'''import pandas as pd'''
+'''import matplotlib.pyplot as plt'''
+'''import seaborn as sns'''
+'''import scikit-learn as sklearn'''
 
 ## Importing the data ##
 Import the tips.csv file using Seaborn.
